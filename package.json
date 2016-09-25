@@ -1,0 +1,19 @@
+{
+  "name": "fun",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viper-md/APIclient.git"
+  },
+  "author": "mukul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viper-md/APIclient/issues"
+  },
+  "homepage": "https://github.com/viper-md/APIclient#readme"
+}
